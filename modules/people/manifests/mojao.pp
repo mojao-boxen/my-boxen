@@ -1,4 +1,4 @@
-class people::daisuke_yamasaki {
+class people::mojao {
   #
   # osx
   #
